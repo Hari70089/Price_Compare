@@ -1,4 +1,0 @@
-google-search-results
-pandas
-streamlit
-matplotlib
